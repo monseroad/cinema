@@ -1,0 +1,113 @@
+.logo{
+	/*background-color:#BC8F8F;*/
+
+}
+.movie{
+    position: relative;
+    padding-top: 8%;
+    right: 15%;
+}
+.buscar{
+	position: relative;
+	padding-top: 8%;
+
+}
+.big{
+	position: relative;
+	font-family: Arial;
+	font-size: 35px;
+	color: 	#DCDCDC;
+
+}
+.brd-b{
+ 	border-bottom: 2px solid rgba(211, 211, 211, 0.33);
+ 	margin-bottom: 5%;
+ 	padding-bottom: 5%;
+ }
+.age{
+	position: relative;
+	border-style: solid;
+	border-color: #00FF7F;
+	border-radius: 5%;
+	width: 45%;
+	padding: 5%;
+	text-align: center;
+	font-family: Arial;
+	color: #00FF7F;
+	font-family: Arial;
+}
+/*.hero{
+	border-top: 15%;
+}*/
+.hall{
+	position: relative;
+	font-family: Arial;
+}
+.amarillo{
+	background-color: #FFA500;
+	width: 95.7%;
+
+}
+.one{
+	padding: 2%;
+	height: 180px;
+    width: 170px;
+}
+.two{
+    padding: 2%;
+    height: 200px;
+    width: 190px;
+}
+.three{
+    padding: 2%;
+	height: 200px;
+    width: 190px;
+}
+.four{
+    padding: 2%;
+	height: 200px;
+    width: 190px;
+}
+.five{
+    padding: 2%;
+	height: 200px;
+    width: 190px;
+}
+.six{
+    padding: 2%;
+	height: 200px;
+    width: 190px;
+}
+.enlace{
+	 width:100%
+	 height:  
+}
+.video{
+    float: left;
+
+}
+.now{
+	font-family: Arial;
+	font-size: 30px;
+	color: #A9A9A9;
+}
+.book{
+	font-family: Arial;
+	color: white;
+	background-color:#D2691E;
+	border-radius: 5px;
+	padding: 3%;
+    margin-right: 78%;
+}
+.get{
+	font-family: Arial;
+	color: #D2691E; 
+}.min{
+	color: #A9A9A9;
+	font-family: Arial;
+}
+.news{
+	color: #A9A9A9;
+	font-family: Arial;                                                                                                                                                                                                                        
+}
+
